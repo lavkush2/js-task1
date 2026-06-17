@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+#menu{
+    width: 200px;
+    background-color: lightgray;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}

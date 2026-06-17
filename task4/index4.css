@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+.faq{
+    width: 400px;
+}
+
+#answer{
+    display: none;
+    margin-top: 10px;
+}
