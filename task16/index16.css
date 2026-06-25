@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.container{
+    width: 500px;
+    text-align: center;
+}
+
+.tabs{
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    margin: 0 5px;
+}
+
+.active{
+    background-color: black;
+    color: white;
+}
+
+.hidden{
+    display: none;
+}
+
+p{
+    font-size: 18px;
+}
